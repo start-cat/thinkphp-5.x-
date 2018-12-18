@@ -1,4 +1,4 @@
-url.txt 放目标ip
-ok.txt 为成功结果
+url.txt 瀛樻斁IP
+ok.txt 鎴愬姛杈撳嚭
 
 python thinkphp5rec.py
